@@ -1,3 +1,5 @@
+----step 1
+
 create database foodieDB
 
 
